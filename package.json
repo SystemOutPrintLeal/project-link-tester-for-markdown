@@ -1,0 +1,21 @@
+{
+  "name": "alura_cursos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cli": "node cli.js texto1.md"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "node-fetch": "^3.2.4"
+  },
+  "type": "module",
+  "devDependencies": {
+    "jest": "^28.1.0"
+  }
+}
